@@ -1,0 +1,11 @@
+{
+"name":"Nisarga",
+"description":"Get a new Joke Everytime you click on the extension",
+"version":"1.0",
+"manifest_version":3,
+"action" : {
+"default_popup":"popup.html",
+"default_icon":"picss.png"
+}
+
+}
