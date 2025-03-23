@@ -10,7 +10,7 @@ The Lame Jokes Chrome Extension is a fun tool that displays a new joke every tim
 
 ## Installation
 1. Clone or download this repository to your local machine.
-   git clonehttps://github.com/DataNavigatorX/Lame-Joke-Extension.git
+       git clone  https://github.com/DataNavigatorX/Lame-Joke-Extension.git
 2. Open Google Chrome and enter `chrome://extensions` in the address bar.
 3. Enable the "Developer mode" toggle at the top right corner.
 4. Click on the "Load unpacked" button and select the project folder you downloaded.
